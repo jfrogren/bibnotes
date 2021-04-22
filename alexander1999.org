@@ -1,0 +1,15 @@
+#+TITLE: alexander1999: The origins of pattern theory: the future of the theory, and the generation of a living world
+#+ROAM_KEY: cite:alexander1999
+
+- tags ::
+- keywords ::
+
+
+* alexander1999: The origins of pattern theory: the future of the theory, and the generation of a living world
+  :PROPERTIES:
+  :Custom_ID: alexander1999
+  :URL:
+  :AUTHOR: Alexander, C.
+  :NOTER_DOCUMENT: ~/Documents/bibpdfs/alexander1999.pdf
+  :NOTER_PAGE:
+  :END:
