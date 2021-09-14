@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       8c4eafd9-d270-48e5-9c57-57e6a62ca925
+:ROAM_REFS: cite:alexander1999
+:END:
 #+TITLE: alexander1999: The origins of pattern theory: the future of the theory, and the generation of a living world
-#+ROAM_KEY: cite:alexander1999
 
 - tags ::
 - keywords ::

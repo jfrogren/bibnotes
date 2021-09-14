@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       7ca35924-b8ed-4043-8b10-37dcff4560d6
+:ROAM_REFS: cite:dagerman2010
+:END:
 #+TITLE: dagerman2010: Ormen
-#+ROAM_KEY: cite:dagerman2010
 
 - tags ::
 - keywords ::

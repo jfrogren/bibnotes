@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       c4aad7d5-e939-4a6a-8d83-037a4feef2d3
+:ROAM_REFS: cite:sandell2021
+:END:
 #+TITLE: sandell2021: Passerande
-#+ROAM_KEY: cite:sandell2021
 
 - tags ::
 - keywords ::

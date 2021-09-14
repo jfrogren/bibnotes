@@ -1,0 +1,341 @@
+#+TITLE: Skolverket2012
+
+** Förhoppningen med boken
+
+"Förhoppningen är att innehållet i boken bidrar till en
+ökad medvetenhet om språkets roll i lärandet och att fler
+lärare ska våga pröva nya vägar i sin undervisning; vägar
+som gagnar flerspråkiga elever men som också gynnar
+många elever med svenska som sitt modersmål."
+
+
+** Vardagsspråk vs. skolspråk
+
+"Ulrika Magnusson har i rapporten Språk i ämnet belyst språkets roll i lärandet och lyfter fram språkliga perspektiv i ämnesundervisningen.
+Hon talar bland annat om vardagsspråk och skolspråk,
+där vardagsspråk är det språk som används i informella
+situationer, till exempel hemma vid matbordet, i samtal
+med kompisar eller i fotbollsklubben. Skolspråk är det
+språkbruk som eleverna möter i skolans undervisning." (s. 35)
+
+** Utveckling av vardagsspråk och skolspråk
+
+"Vygotskij menar att vardagsspråkets begrepp utveck-
+las muntligt och spontant i de vardagliga sammanhang
+som barnet ingår i. Skolspråkets begrepp och de sam-
+manhang de hör hemma i bygger på konstruktioner som
+forskare och andra har arbetat fram för att förstå och
+förklara världen på ett vetenskapligt förankrat sätt." (s. 36)
+
+"Vardagsspråket och skolspråket utvecklas på olika
+sätt eftersom de är avsedda att användas i olika sociala
+sammanhang. Inger Lindberg beskriver skolspråket som
+skriftspråksbaserat och menar att det kännetecknas av
+abstraktion, generalisering, kategorisering, argumenta-
+tion och reflektion. Det gör att skolspråket också blir
+mer opersonligt och distanserat. Skolspråket är egentli-
+gen inte ett språk utan flera språk. Även om det finns
+många för alla ämnen gemensamma drag i skolspråket,
+arbetar olika ämnen med olika typer av texter eller gen-
+rer, och även graden av abstraktion varierar." (s. 38)
+
+
+** Ett alternativt sätt att se på uppdelningen: Tre olika språkdomäner
+
+"Olika forskare beskriver relationen mellan vardags-
+språk och skolspråk på delvis olika sätt. Exempelvis talar
+Macken Horarik om tre olika språkdomäner: en vardags-
+domän, en specialiserad domän och en tredje domän
+som hon kallar den reflexiva domänen. Det stämmer väl
+överens med kraven på undervisningen i dag, där den
+reflexiva domänen tydligt lyfts fram i kurs- och ämnesplaner. Detta kommer till uttryck i begreppen reflektera och kritiskt granska; två återkommande och viktiga begrepp, i synnerhet för skolans uppgift att fostra för ett
+demokratiskt medborgarskap." (s. 35-36)
+
+"Man kan beskriva skillnaderna mellan de tre olika
+språkdomäner som Macken Horarik tar upp genom en
+koppling till undervisningen. Inledningen av ett arbets-
+område sker ofta genom muntliga samtal om elevernas
+förkunskaper i ämnet. I detta skede knyts språket till
+muntligt språk och vardagliga exempel. Detta sätt att
+använda språket hör till vardagsdomänen. I ett senare
+skede kommer undervisningen över på det som är spe-
+cifikt för ämnet och arbetsområdet. Här kommer man
+in på den specialiserade domänen, där skriftspråket står
+i fokus. I den reflexiva domänen reflekterar läraren och
+eleverna över innehållet och gör en kritisk granskning
+av texter.
+Oavsett hur man väljer att benämna och beskriva
+skillnaderna i språkanvändningen ligger utgångspunkten
+i Vygotskijs sätt att beskriva utvecklingen av vardagliga
+respektive vetenskapliga begrepp." (s. 36)
+
+** Flerspråkiga elevers väg till skolspråket
+
+"För flerspråkiga elever brukar man säga att det tar ungefär 1–2 år att lära
+sig vardagsspråket." (s. 38)
+
+"Andraspråksforskare har visat att det tar mellan 6 och 8 år för
+flerspråkiga elever att utveckla skolspråket." (s. 39)
+
+
+
+** Skolspråket: inte alltid ovanliga ord som är mest problematiska för flerspråkiga elever
+
+"Anledningen till det är att många lärare uppfattar dessa ord som kända för eleverna och därför inte förklarar dem närmare. Exempel på sådana ord är ersätta, redovisa, uttrycka och fastställa." (s. 44)
+
+"Ytterligare en kategori ord är sådana som tillhör all-
+mänspråket, är relativt vanliga och förekommer också i
+ämnesspråket, men har då ofta en mer specifik betydelse.
+Det kan gälla begrepp som kraft och energi eller upp-
+skatta. I matematikspråket återfinns många sådana ord." (s. 45)
+
+** Skolspråket kan kategoriseras i tre grupper
+
+"Ordförrådet i skolspråket kan kategoriseras på olika
+sätt. Den amerikanska språkforskaren Alison Bailey,
+föreslår en indelning i vanliga vardagliga ord, allmänna
+akademiska ord och ämnesspecifika ord." (s. 44)
+
+** Djup och bredd i ordförståelse
+
+"Den danska forskaren Anna Steneberg pekar i en forskningsöversikt över flerspråkiga elevers ordförståelse på sambandet mellan djupet i elevers
+ordförståelse och deras läsförståelse. Med bredd avses ett
+kvantitativt mått, det vill säga hur stort ordförråd man
+har, medan djup avser ett kvalitativt mått som avser vad
+man kan om enskilda ord. Till bredden skulle man enligt
+detta resonemang kunna hänföra synonymer och mot-
+satsord, till exempel titta, se, plira, glutta, snegla, kisa
+och se, eller motsatser som hinder och möjligheter, salt
+och sött, konkret och abstrakt. Till djupet kan man då
+hänföra kunskaper om hur ord böjs och vad det finns för
+betydelsemässigt närliggande ord, exempelvis i ett ordfält
+som skriva, där man kan ta in begrepp som skrivning,
+skrivande, skrivare, skrivdon, skrivkunnig och så vidare..." (s. 46)
+
+
+** Passiv form och nominalisering - två svårigheter i erövrandet av ett skolspråk
+
+"Passiv form fyller funktionen att aktören, eller den
+som utför en handling, inte lyfts fram. Vi kan säga ”Den
+tunisiska revolutionen inleddes i går”, för att betona att
+själva händelsen är det viktiga i sammanhanget. ”Folket
+inledde den tunisiska revolutionen i går”, ger möjlighet att
+lyfta fram aktören. Passiv form kan också användas som
+en språklig manipulation för att medvetet dölja aktören." (s. 48)
+
+"Med nominalisering avses att verb eller andra ordklasser görs om till substantiv (täcka -> täckning, varm -> värme, därför att -> orsaken). Nominaliseringens funktion är normalt sett att ge mer plats åt information på mindre spaltutrymme. När ett ord görs till substantiv kan man samtidigt bygga ut det med olika bestämningar. Texten får en högre informationstäthet.
+Men denna språkliga manipulation kan också användas av andra skäl, till exempel att dölja agenten eller den som är ansvarig för handlingen." (s. 48)
+
+** Passiv form och nominalisering - nödvändiga för precision
+"Passiviseringar och nominaliseringar är i många skrift-
+språkliga sammanhang nödvändiga, för att man ska kunna
+nå den grad av precision man önskar." (s. 49)
+
+
+** Naturvetenskapens språk utmanande att lära sig
+
+De förutsätter att elever förstår relationer mellan olika begrepp (t.ex. för vatten - regn, snö, hagel och nederbörd) + att de vet vilka processer (verb) som lämpar sig för att beskriva förloppet (återvänder, når, tränger ner). Att i en rapport bara skriver "kommer" eller "finns"... "motsvarar inte naturvetenskapens krav på att så objektivt och så exakt som möjligt beskriva
+fenomen och processer i naturen. Det är alltså inte så enkelt att lära sig behärska det naturvetenskapliga språket som att kunna definiera begreppet nederbörd."
+
+** Naturvetenskapens språk inbegriper också redskap som modeller, symboler och diagram
+
+"Förutom själva språket ställs, framför allt i naturveten-
+skaperna, krav på kunskaper om andra uttrycksformer.
+Viktiga språkliga redskap för en naturvetare är uttrycks-
+former som bilder och modeller, symboler, tabeller, gra-
+fer och diagram." (s. 52)
+
+
+"...elever, framför allt i naturvetenskapliga ämnen, också behöver undervisning
+i hur man läser multimodala texter och hur man tolkar visualiseringar av olika slag." (s. 53)
+
+** Pedagogiskt sätt att undervisa i naturvetenskap för att underlätta språkinlärningen
+
+
+1. Att göra naturvetenskap – Elever gör experiment utifrån
+givna instruktioner.
+2. Att återberätta – Eleverna återberättar vad de gjort i
+sina experiment eller vad de läst om någon vetenskaps-
+man. Först sker detta muntligt och sedan skriftligt.
+3. Att beskriva och klassificera – Eleverna beskriver och
+organiserar naturvetenskap på olika sätt. Här ingår också
+att skriva enkla laborationsrapporter.
+4. Att förklara en process i naturen – Eleverna förklarar olika
+utvecklingsstadier hos organismer, t.ex. grodor, eller olika
+kretslopp i naturen som vattnets kretslopp. Andra förklaran-
+de processer kan handla om varför vissa förändringar sker.
+5. Mer avancerade processförklaringar – Här kan man
+tänka sig olika förklaringar till växthuseffekten till exempel.
+6. Utredande och analytiska genrer – Elever analyserar oli-
+ka aspekter av en process eller ett fenomen och försöker
+övertyga andra om ett visst synsätt, exempelvis om växt-
+huseffekten. Här skriver elever också rapporter av olika
+slag. (s. 53-54)
+
+
+** Språket i samhällsvetenskapen
+
+"Samhällsvetenskaperna i skolan bygger generellt
+mer på berättande texter av olika slag, i synnerhet under tidiga skolår. De är därför på flera sätt enklare att greppa än naturvetenskapens, eftersom barn och unga människor har större erfarenhet av berättande texter. Men ju högre
+upp i årskurserna eleverna kommer, desto mer abstrakt
+blir innehållet. Det finns mängder av ämnestypiska ord
+och uttryck även i samhällsvetenskapernas texter. Elever
+förväntas inte bara kunna läsa längre texter utan också dis-
+tansera sig från innehållet och kritiskt granska det." (s. 54-55)
+
+** Pedagogiskt sätt att undervisa i samhällsvetenskap för att underlätta språkinlärningen
+
+1. Att berätta eller återge händelser, handlingar eller förlopp
+– Elever återberättar sitt eget liv eller andra personers
+liv i viss tidsordning.
+2. Att redogöra för historiska händelser – Elever redogör
+för händelser i det förflutna.
+3. Att förklara historia – Elever förklarar orsaker till eller
+följder av historiska skeenden.
+4. Att diskutera, utreda, argumentera och värdera historia
+– Eleverna diskuterar eller skriver utredande eller argu-
+menterande texter. De tolkar och värderar historiska
+händelser och handlingar. (s. 57)
+
+** Övergripande centrala aspekter i undervisning av flerspråkiga elever
+
+"Att få använda språket på olika sätt och för
+olika syften i olika sammanhang, i klassrumsinteraktion
+liksom i grupparbeten och självständigt formulerande, är
+avgörande för flerspråkiga elevers skolframgång." (s. 60)
+
+"Man kan säga att lärare och
+elever behöver ett metaspråk, det vill säga ett språk för
+att kunna tala om skolspråket. För att kunna medvetan-
+degöra eleverna om skolspråket behöver lärare explicita
+kunskaper om vad som kännetecknar de texter de arbe-
+tar med i sina ämnen, både när det gäller struktur och
+språkliga drag." (s. 60)
+
+"Gibbons och Hajer betonar i sin forskning att det
+dessutom är viktigt att flerspråkiga elever utmanas i
+uppgifter med såväl språklig som tankemässig kvalitet.
+Forskaren Jim Cummins beskriver de språkliga krav en
+uppgift ställer utifrån två variabler: tankemässig (kogni-
+tiv) svårighetsgrad och stöd i situationen (kontexten)." (s. 60)
+
+"Språkligt och tankemässigt utmanande uppgifter har
+ofta en problemlösningskaraktär som anknyter till verk-
+ligheten utanför skolan. De kräver analys, tolkning och
+reflektion av eleverna." (s. 63)
+
+
+** Litteracitet
+
+"När man talar om läs- och skrivkunnighet i dag används ofta begreppet litteracitet, vilket innebär att kunna förstå och använda sig av skriftspråket på ett sätt som krävs i det omgivande samhället och som är av värde för individen. Det innefattar förutom läsförståelse och skrivkunnighet även förmågan att använda tal, bilder och symboler i direkt eller indirekt koppling till skrift. Människor måste i dag kunna förstå och tolka olika slags instruktioner, föra vidare och rapportera resultat, kommunicera via datorer, vara uppdaterade om vad som händer i världen och kunna granska texter kritiskt. De måste också tillgodogöra sig information som konsumenter inför större inköp, vid kontakt med banken och inte minst för att kunna sortera i flödet av texter för att avgöra vad som är väsentligt och vad som inte är det. I skolan måste eleverna därför få möjlighet att utveckla en sådan aktiv läsförmåga som krävs för ett fortsatt lärande." (s. 64)
+
+** Tidiga läs- och skrivutvecklingen
+
+"Elever med annat modersmål och andra språkljud i sin repertoar
+som ska lära sig läsa på svenska kan få svårigheter med
+att uppfatta vissa språkljud i svenskan. Det kan ta lite
+längre tid för dem att upptäcka kopplingen mellan ljud
+och bokstav och läsinlärningen kan gå långsammare än
+för jämnåriga svenskspråkiga elever." (s. 65)
+
+"Automatiserad avkodningsförmåga och flyt i läs-
+ningen är en avgörande faktor för läsförståelsen. En
+alltför långsam avkodning gör att väldigt mycket energi
+läggs på detta moment och medför att läsarens koncen-
+tration och ork inte räcker för att skapa mening i tex-
+ten. Men god avkodningsförmåga behöver inte alltid
+innebära god läsförståelse. Många flerspråkiga elever är
+skickliga avkodare, men kan ändå ha svårigheter med läs-
+förståelsen. Därför är det viktigt att läsningen äger rum i
+meningsfulla sammanhang och med texter där elevernas
+bakgrundskunskaper och förförståelse aktiveras, och att de tidigt får träning i olika läsförståelsestrategier när de
+läser eller lyssnar till text." (s. 66)
+
+** Inkludera elevernas referensramar
+"Flerspråkiga elever
+behöver många gånger förarbeta de texter de ska läsa på
+ett mer ingående sätt än sina enspråkiga kamrater och
+som lärare är det viktigt att ta reda på om eleverna har de
+referensramar som behövs för att kunna tillgodogöra sig
+textens innehåll. Om textens innehåll skapar en alltför
+stor barriär, kanske man som lärare behöver fundera över
+textvalet och överväga om det finns någon annan som
+skulle fungera bättre." (s. 67)
+
+** Läsarens olika roller
+"Forskarna Alan Luke och Peter Freebody har tagit fram en modell för läsning där
+de tänker sig att en god läsare kan anta olika roller eller
+utveckla olika resurser eller sätt att läsa en text. Dessa rol-
+ler samverkar när vi läser, och forskarna menar att elever
+behöver rika tillfällen att delta i aktiviteter där de kan
+utveckla och praktisera dessa för att nå framgång i sin
+litteracitetsutveckling. De fyra rollerna är:
+
+1. Läsaren som kodknäckare
+Knäcker koden för skriftspråkets olika strukturer som alfa-
+betet och ljuden i språket, om hur ord används och stavas,
+hur de sätts samman till meningar och för hur olika text-
+strukturer fungerar och används.
+
+2. Läsaren som textdeltagare
+Gör kopplingar från texten till egna förkunskaper, tidigare
+erfarenheter och kan tolka texten utifrån sin egen kulturel-
+la referensram. Läsaren kan göra förutsägelser och ställa
+hypoteser om textens innehåll.
+
+3. Läsaren som textanvändare
+Använder texter funktionellt genom att förstå olika tex-
+ters funktion och syfte i olika sammanhang och hur de
+används. Vet att texters form och grad av formalitet varie-
+rar beroende på i vilket sammanhang de används.
+
+4. Läsaren som textanalytiker
+Förstår att olika texter speglar olika synsätt om världen
+och att varje text är skriven utifrån ett visst perspektiv.
+Läsaren granskar och förmår genomskåda syftet med tex-
+ten och förstår att texter kan skrivas om på nya sätt.
+" (s. 68-69)
+
+"Att kunna växla mellan olika roller innebär att kunna
+anpassa sin läsning och utnyttja olika strategier." (s. 69)
+
+"En skicklig läsare kan hela
+tiden övervaka sin läsning, är medveten om när förståel-
+sen brister och har strategier för hur man kan göra när
+man inte förstår." (s. 69)
+
+** Att läsa och skriva i alla ämnen
+
+"Läsforskaren Judith Langer har genomfört en omfat-
+tande femårig studie i 25 amerikanska grundskoleklas-
+ser. Resultaten visar att elever klarar uppsatta mål bättre
+än förväntat om undervisningen har tydliga kopplingar
+mellan ämnesområden i och utanför skolan, till elever-
+nas egna erfarenheter och deras erfarenheter från andra
+lektioner och tidigare erövrade kunskaper." (s. 74-75)
+
+"Nedan sammanfattas de språkförmågor som uttrycks
+i olika kurs- och ämnesplaner:
+
+-  utveckla förmågan att med hjälp av olika språkliga red-
+skap läsa instruktioner
+-  använda för ämnet centrala begrepp
+-  undersöka, beskriva, diskutera, reflektera över, analy-
+sera, värdera (med hjälp av de centrala begreppen och
+olika informationskällor från olika medier, observatio-
+ner och intervjuer)
+-  förklara eller redogöra för samband mellan begrepp,
+orsak och verkan i processer, orsaker till och följder av
+processer, eller konsekvenser av processer
+-  redovisa och presentera resultaten på olika sätt med
+hjälp av ett för uppgiften lämpligt urval av texter
+inklusive visualiseringar i form av bilder eller bild och
+ljud, tabeller, grafer och diagram, modeller eller dra-
+matiseringar.
+
+Det är med andra ord inte enbart i svenskämnena som
+eleverna förväntas utveckla olika sådana språkliga förmå-
+gor som att läsa och skriva i olika genrer, utan alla lärare
+har ansvar för elevernas språk- och kunskapsutveckling
+inom ramen för sina ämnen och för de språkliga krav
+som just deras ämnen ställer." (s. 80)
